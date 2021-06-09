@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-api-core/#history
 
+## [1.31.0](https://www.github.com/googleapis/python-api-core/compare/v1.30.0...v1.31.0) (2021-06-09)
+
+
+### Features
+
+* add ServiceUnavailable exception to polling retries ([#184](https://www.github.com/googleapis/python-api-core/issues/184)) ([11032cf](https://www.github.com/googleapis/python-api-core/commit/11032cf08ecc16dd252a6cda8b33b0b28ec4f4ba))
+
 ## [1.30.0](https://www.github.com/googleapis/python-api-core/compare/v1.29.0...v1.30.0) (2021-06-08)
 
 
